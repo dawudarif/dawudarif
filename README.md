@@ -25,6 +25,11 @@ I'm a Full-Stack MERN developer based in Gujrat, Pakistan 📍
   <img src="https://skillicons.dev/icons?i=chakra" alt="Chakra UI" width="50" height="50" />
 </div>
 
+### Find me on
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dawudarif)
+
+
+
 <!--
 **dawudarif/dawudarif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
