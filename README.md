@@ -4,7 +4,7 @@
 
 I'm a Full-Stack MERN developer based in Gujrat, Pakistan 📍
 
-### Tech Stack
+### Skills
 
 <div align="start">
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" />
