@@ -8,16 +8,16 @@ I'm a Full-Stack MERN developer based in Gujrat, Pakistan 📍
 
 <div align="start">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,gatsby,nodejs,garphql,express,mongo,apollo,firebase,bootstrap,tailwind,figma" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,gatsby,nodejs,garphql,express,mongo,apollo,firebase,bootstrap,tailwind,figma"/>
   </a>
 </div>
 
 ### Tools
 <div align='start'>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" width="50" height="50"/>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
   </a>
-</div>div>
+</div>
 
 ### Find me on
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dawudarif)
