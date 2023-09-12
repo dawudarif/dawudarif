@@ -2,25 +2,28 @@
 
 # Dawood Arif
 
-Based in Gujrat, Pakistan 📍
+📍 Based in Gujrat, Pakistan 📍
 
 ## Tech Stack
 
-- ![HTML](https://skillicons.dev/icons?icon=html)
-- ![CSS](https://skillicons.dev/icons?icon=css)
-- ![JavaScript](https://skillicons.dev/icons?icon=js)
-- ![TypeScript](https://skillicons.dev/icons?icon=ts)
-- ![React](https://skillicons.dev/icons?icon=react)
-- ![Next.js](https://skillicons.dev/icons?icon=next)
-- ![Gatsby](https://skillicons.dev/icons?icon=gatsby)
-- ![Node.js](https://skillicons.dev/icons?icon=node)
-- ![GraphQL](https://skillicons.dev/icons?icon=graphql)
-- ![Apollo](https://skillicons.dev/icons?icon=apollo)
-- ![Express.js](https://skillicons.dev/icons?icon=express)
-- ![Tailwind CSS](https://skillicons.dev/icons?icon=tailwind)
-- ![Figma](https://skillicons.dev/icons?icon=figma)
-- ![Chakra UI](https://skillicons.dev/icons?icon=chakra)
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=gatsby" alt="Gatsby" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=mongo" alt="Mongo DB" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=apollo" alt="Apollo" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=chakra" alt="Chakra UI" width="50" height="50" />
+</div>
 
 <!--
 **dawudarif/dawudarif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
