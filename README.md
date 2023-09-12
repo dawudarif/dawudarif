@@ -8,7 +8,7 @@ I'm a Full-Stack MERN developer based in Gujrat, Pakistan 📍
 
 <div align="start">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,gatsby,nodejs,garphql,express,mongo,apollo,firebase,bootstrap,tailwind,figma"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,gatsby,nodejs,graphql,express,mongo,apollo,firebase,bootstrap,tailwind,figma"/>
   </a>
 </div>
 
