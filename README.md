@@ -21,11 +21,12 @@ I'm a Full-Stack MERN developer based in Gujrat, Pakistan 📍
   <img src="https://skillicons.dev/icons?i=mongo" alt="Mongo DB" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=apollo" alt="Apollo" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=chakra" alt="Chakra UI" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=github" alt="Github" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50" />
 </div>
 
 ### Find me on
