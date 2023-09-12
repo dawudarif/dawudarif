@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-# Dawood Arif
+# I'm Dawood Arif
 
-📍 Based in Gujrat, Pakistan 📍
+I'm a Full-Stack MERN developer based in Gujrat, Pakistan 📍
 
-## Tech Stack
+### Tech Stack
 
-<div align="center">
+<div align="start">
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" />
