@@ -55,9 +55,27 @@ I'm a Full-Stack MERN developer based in Gujrat, Pakistan 📍
             width="50"
             height="50"
           />
+               <img
+            src="https://skillicons.dev/icons?i=tailwind"
+            alt="Tailwind CSS"
+            width="50"
+            height="50"
+          />
+          <img
+            src="https://skillicons.dev/icons?i=bootstrap"
+            alt="Bootstrap"
+            width="50"
+            height="50"
+          />
           <img
             src="https://skillicons.dev/icons?i=nodejs"
             alt="Node.js"
+            width="50"
+            height="50"
+          />
+             <img
+            src="https://skillicons.dev/icons?i=apollo"
+            alt="Apollo"
             width="50"
             height="50"
           />
@@ -74,26 +92,38 @@ I'm a Full-Stack MERN developer based in Gujrat, Pakistan 📍
             height="50"
           />
           <img
+            src="https://skillicons.dev/icons?i=prisma"
+            alt="Prisma"
+            width="50"
+            height="50"
+          />
+          <img
             src="https://skillicons.dev/icons?i=mongo"
             alt="Mongo DB"
             width="50"
             height="50"
           />
           <img
-            src="https://skillicons.dev/icons?i=apollo"
-            alt="Apollo"
+            src="https://skillicons.dev/icons?i=mysql"
+            alt="MySQL"
             width="50"
             height="50"
           />
           <img
-            src="https://skillicons.dev/icons?i=tailwind"
-            alt="Tailwind CSS"
+            src="https://skillicons.dev/icons?i=postgres"
+            alt="PostgreSQL"
             width="50"
             height="50"
           />
           <img
             src="https://skillicons.dev/icons?i=figma"
             alt="Figma"
+            width="50"
+            height="50"
+          />
+          <img
+            src="https://skillicons.dev/icons?i=xd"
+            alt="Adobe XD"
             width="50"
             height="50"
           />
