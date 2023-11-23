@@ -2,7 +2,7 @@
 
 # I'm Dawood Arif
 
-I'm a Full-Stack MERN developer based in Gujrat, Pakistan 📍
+I'm a Full-Stack developer based in Gujrat, Pakistan 📍
 
 ### Skills
 
