@@ -131,7 +131,19 @@ I'm a Full-Stack developer based in Gujrat, Pakistan 📍
 
 ### Tools
 <div align='start'>
-  <img
+          <img
+            src="https://skillicons.dev/icons?i=vscode"
+            alt="VS Code"
+            width="50"
+            height="50"
+          />
+          <img
+            src="https://skillicons.dev/icons?i=postman"
+            alt="Postman"
+            width="50"
+            height="50"
+          />
+         <img
             src="https://skillicons.dev/icons?i=git"
             alt="Git"
             width="50"
@@ -144,14 +156,14 @@ I'm a Full-Stack developer based in Gujrat, Pakistan 📍
             height="50"
           />
           <img
-            src="https://skillicons.dev/icons?i=vscode"
-            alt="VS Code"
+            src="https://skillicons.dev/icons?i=gitlab"
+            alt="GitLab"
             width="50"
             height="50"
           />
           <img
-            src="https://skillicons.dev/icons?i=postman"
-            alt="Postman"
+            src="https://skillicons.dev/icons?i=bitbucket"
+            alt="Bitbucket"
             width="50"
             height="50"
           />
