@@ -20,6 +20,12 @@ I'm a Full-Stack developer based in Gujrat, Pakistan 📍
             height="50"
           />
           <img
+            src="https://skillicons.dev/icons?i=scss"
+            alt="JavaScript"
+            width="50"
+            height="50"
+          />
+          <img
             src="https://skillicons.dev/icons?i=js"
             alt="JavaScript"
             width="50"
