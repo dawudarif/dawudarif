@@ -56,13 +56,7 @@
 
 
 ## Portfolio
-
-<a href="https://dawood-arif-dev.vercel.app/" target="_blank">
-
-> ### 🌐 Personal Portfolio Website  
-> Click to view live projects  →
-
-</a>
+[🌐 Personal Portfolio Website→](https://dawood-arif-dev.vercel.app/)
 
 ## Connect
 
