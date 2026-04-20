@@ -57,9 +57,11 @@
 
 ## Portfolio
 
-<a href="https://dawood-dev-dawudarif.vercel.app/" target="_blank">
+<a href="https://dawood-arif-dev.vercel.app/" target="_blank">
+
 > ### 🌐 Personal Portfolio Website  
-> Click to view live projects and system architecture →
+> Click to view live projects  →
+
 </a>
 
 ## Connect
