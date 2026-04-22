@@ -26,6 +26,7 @@
 <img src="https://skillicons.dev/icons?i=nextjs" width="45"/>
 <img src="https://skillicons.dev/icons?i=gatsby" width="45"/>
 <img src="https://skillicons.dev/icons?i=tailwind" width="45"/>
+<img src="https://skillicons.dev/icons?i=materialui" width="45"/>
 </p>
 
 ### Backend & CMS
